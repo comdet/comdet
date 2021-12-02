@@ -30,15 +30,15 @@
 - 2021 
     - contributor of "ML-Block" AI/ML node & link-based data flow programming to evaluate and illustrating how AI model is working and fun with the pre-trained model or training own model itself.
     
-        mlblock.org , ml.in.th
+        https://mlblock.org , https://ml.in.th
 - 2020 
     - Develop "CorgiDude" education microcontroller board with K210 chipset AI/ML accelerated. Our well-developed firmware supports many pre-trained AI models such as Real-time Face Recognition, Face/FaceMask detection, Garbage Classification, MobileNet, YOLO, etc.
     
-        corgidude.makerasia.com (https://github.com/AiDude-io/CorgiDude)
+        https://corgidude.makerasia.com (https://github.com/AiDude-io/CorgiDude)
 - 2019 
     - Develop "KB-IDE", An open-source IDE with a duo switchable between visual block programming and text-based editor for microcontroller ESP32 and Arduino AVR. Also combined with many features like Board Manager, Plugin Manager, and Example & Tutorial. This IDE is based on Electron and VueJS with NodeJS CPP embedded offline compiling system.
     
-        kbide.org (github.com/MakerAsia/KBProIDE)
+        https://kbide.org (github.com/MakerAsia/KBProIDE)
 ### President & Head Advisor @ Khon Kaen Maker Club,  [Oct 2016 - 2019]
 - Internet of Things Research and Development
 - Embedded System Development
