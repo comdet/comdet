@@ -38,7 +38,7 @@
 - 2019 
     - Develop "KB-IDE", An open-source IDE with a duo switchable between visual block programming and text-based editor for microcontroller ESP32 and Arduino AVR. Also combined with many features like Board Manager, Plugin Manager, and Example & Tutorial. This IDE is based on Electron and VueJS with NodeJS CPP embedded offline compiling system.
     
-        https://kbide.org (github.com/MakerAsia/KBProIDE)
+        https://kbide.org (https://github.com/MakerAsia/KBProIDE)
 ### President & Head Advisor @ Khon Kaen Maker Club,  [Oct 2016 - 2019]
 - Internet of Things Research and Development
 - Embedded System Development
