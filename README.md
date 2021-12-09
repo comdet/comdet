@@ -71,6 +71,8 @@ Special Award (Software Design
 ## Publications
 ### 2018
 - [Firstname][Lecture Notes] C. Phaudphut, P. Aimtongkham, C. So-In, and K. Rujirakul, **"An ECG Recognition Scheme Using Deep Neural Networks,"** Lecture Notes on Advanced Reserach in Engineering and Information Technology II, pp. 65-71, Jan. 2018.
+
+[https://maltesas.my/msys/explore/pubbrowser_content.php?id=6]
 ### 2017
 - [Journal] P. Kuttranont, K. Boonprakob, C. Phaudphut, S. Permpol, P. Aimtongkham, and C. So-In, **"Parallel KNN and Neighborhood Classification Implementations on GPU for Network Intrusion Detection,"** Journal of Telecommunication, Electronic and Computer Engineering (JTEC) (selected from ADVCIT 2015), vol. 9, no. 2-2, pp. 29-33, 2017. (Scopus)
 ### 2016
