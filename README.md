@@ -53,13 +53,13 @@
 
 ### Master of Science in Computer Science (2014 – 2018)
 
-Program in Computer Science
+Program in Computer Science [Scheme A1]
 
 - “Research Fund for Supporting Lecturer to Admit High Potential Student to Study and Research on His Expert Program”, scholarship from The Graduate School
 - Best Paper Award @JCSSE 2016 (Co-Author)
 - Best Paper Award @IC2IT 2015 (Co-Author)
 
-### Bachelor of Science in Computer Science (2009 – 2013) 
+### Bachelor of Science in Computer Science (2009 – 2013)
 
 Program in Computer Science, GPA: 3.46
 
