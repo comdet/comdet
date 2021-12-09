@@ -61,7 +61,7 @@ Program in Computer Science
 
 ### Bachelor of Science in Computer Science (2009 – 2013) 
 
-Program in Computer Science, GPA: 3.36
+Program in Computer Science, GPA: 3.46
 
 - President, Computer Science Club
 - "Creative Digital Contest 2013", The 1st prize MSIG Web Design Contest
