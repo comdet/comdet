@@ -71,21 +71,17 @@ Special Award (Software Design
 ## Publications
 ### 2018
 - [Firstname][Lecture Notes] C. Phaudphut, P. Aimtongkham, C. So-In, and K. Rujirakul, **"An ECG Recognition Scheme Using Deep Neural Networks,"** Lecture Notes on Advanced Reserach in Engineering and Information Technology II, pp. 65-71, Jan. 2018.
-
     [https://maltesas.my/msys/explore/pubbrowser_content.php?id=6]
 
 ### 2017
 - [Journal] P. Kuttranont, K. Boonprakob, C. Phaudphut, S. Permpol, P. Aimtongkham, and C. So-In, **"Parallel KNN and Neighborhood Classification Implementations on GPU for Network Intrusion Detection,"** Journal of Telecommunication, Electronic and Computer Engineering (JTEC) (selected from ADVCIT 2015), vol. 9, no. 2-2, pp. 29-33, 2017. (Scopus)
-
     [https://jtec.utem.edu.my/jtec/article/view/5987]
 
 ### 2016
 - [Proceedings] C. Phaudphut, C. So-In, and W. Phusomsai, **"A Parallel Probabilistic Neural Network ECG Recognition Architecture over GPU Platforms,"** in Proceedings of International Joint Conference on Computer Science and Software Engineering (JCSSE), pp. 1-7, July 2016. (IEEE Xplore)
-
     [https://ieeexplore.ieee.org/document/7748842]
 
 - [Proceedings] Best Paper Award @JCSSE 2016: W. Phusomsai, C. So-In, W. Punjaruk, C. Phaudphut, and C. Thammsakorn, **"Brain Tumor Cell Recognition Schemes using Image Processing with Parallel ELM Classifications on GPU,"** in Proceedings of International Joint Conference on Computer Science and Software Engineering (JCSSE), pp. 1-6, July 2016. (IEEE Xplore)
-
     [https://ieeexplore.ieee.org/document/7748875]
 
 ### 2015
